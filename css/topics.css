@@ -79,6 +79,11 @@ li.dropdown {
   height: auto;
 }
 
+blockquote{
+  width: 55%;
+  height: auto;
+}
+
 .content figcaption{
   width: 55%;
   height: auto;
@@ -90,7 +95,7 @@ li.dropdown {
 }
 
 .worksCited{
-    text-align: center !important; 
+    text-align: center !important;
 }
 
 .footer{
