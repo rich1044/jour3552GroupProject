@@ -59,7 +59,8 @@ li.dropdown {
   margin-left: auto;
   margin-right: auto;
   margin-top: 150px;
-  height: 350px;
+  padding-bottom: 50px;
+  overflow: auto;
   border-bottom: 3px solid #3B3738;
 }
 
@@ -91,13 +92,15 @@ li.dropdown {
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  height: 350px;
+  overflow: auto;
+  padding-bottom: 50px;
   border-bottom: 3px solid #3B3738;
 }
 
 .maraikaLumholdt h2{
   margin-top: 0;
-  margin-right: 320px;
+  text-align: center;
+  margin-right: 310;
 }
 
 .maraikaLumholdt p{
@@ -124,13 +127,14 @@ li.dropdown {
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  height: 400px;
+  overflow: auto;
+  padding-bottom: 50px;
   border-bottom: 3px solid #3B3738;
 }
 
 .elissaSeverseike h2{
-  text-align: left;
   margin-top: 0;
+  text-align: left;
 }
 
 .elissaSeverseike p{
@@ -155,13 +159,14 @@ li.dropdown {
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  height: 350px;
+  overflow: auto;
+  padding-bottom: 50px;
   border-bottom: 3px solid #3B3738;
 }
 
 .patrickRichard h2{
   margin-top: 0;
-  margin-right: 335px;
+  margin-right: 330px;
 }
 
 .patrickRichard p{
