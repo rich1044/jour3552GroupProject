@@ -150,6 +150,39 @@ li.dropdown {
   height: auto;
 }
 
+.patrickRichard{
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  height: 350px;
+  border-bottom: 3px solid #3B3738;
+}
+
+.patrickRichard h2{
+  margin-top: 0;
+  margin-right: 335px;
+}
+
+.patrickRichard p{
+  line-height: 150%;
+  text-align: left;
+  margin-top: 0;
+  margin-left: 50px;
+  font-size: 24px;
+  float: left;
+  width: 500px;
+}
+
+.patrickRichard img{
+  position: relative;
+  margin-top: 50;
+
+  float: left;
+  width: 25%;
+  height: auto;
+}
+
 .footer{
   background-color: #C63D0F;
   height: 60px;

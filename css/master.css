@@ -38,31 +38,6 @@ li.dropdown {
     display: inline-block;
 }
 
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-.dropdown-content a {
-    color: black !important;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-.dropdown-content a:hover {
-  background-color: #3B3738;
-  color: white !important;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
 #active {
     background-color: #3B3738;
 }
@@ -90,7 +65,7 @@ li.dropdown {
 .contentDiv{
   background-color: black;
   border-radius: 10px;
-  height: 300px;
+  height: 250px;
   margin: 25px;
   margin-top: 100px;
   transition: 1s ease;
