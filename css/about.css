@@ -188,6 +188,38 @@ li.dropdown {
   height: auto;
 }
 
+.maggieFrawley{
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  overflow: auto;
+  padding-bottom: 100px;
+}
+
+.maggieFrawley h2{
+  margin-top: 0;
+  text-align: left;
+}
+
+.maggieFrawley p{
+  line-height: 150%;
+  text-align: left;
+  margin-top: 0;
+  font-size: 24px;
+  float: left;
+  width: 500px;
+}
+
+.maggieFrawley img{
+  position: relative;
+  margin-left: 50px;
+  float: left;
+  width: 30%;
+  height: auto;
+  margin-top: -50;
+}
+
 .footer{
   background-color: #C63D0F;
   height: 60px;
