@@ -98,6 +98,11 @@ blockquote{
     text-align: center !important;
 }
 
+.quote{
+  margin-left: 4em;
+  font-size: 20px !important;
+}
+
 .footer{
   background-color: #C63D0F;
   height: 60px;
