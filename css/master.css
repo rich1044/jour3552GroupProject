@@ -151,6 +151,6 @@ transition: 1s ease;
   height: 60px;
   left: 0;
   width: 100%;
-  position: static;
+  position: absolute;
   bottom: 0;
 }
