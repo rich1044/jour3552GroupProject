@@ -37,6 +37,8 @@ body{
 li.dropdown {
     display: inline-block;
 }
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.8); }
 
 .title{
   font-size: 75px;
